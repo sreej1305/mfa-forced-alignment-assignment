@@ -11,11 +11,14 @@ Tools Used
 - Ubuntu (WSL on Windows)
 ---
 Dataset Structure
+
 data/
 ├── wav/ # Audio files (.wav)
 └── transcripts/ # Corresponding transcripts (.txt)
 Each transcript file corresponds to one audio file with the same filename.
+
 ---
+
 Installation
 MFA was installed using micromamba.
 
