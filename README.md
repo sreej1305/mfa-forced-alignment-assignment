@@ -1,5 +1,5 @@
 # mfa-forced-alignment-assignment
-Forced alignment using Montreal Forced Aligner (MFA)
+
 Assignment 1: Forced Alignment using Montreal Forced Aligner (MFA)
 
 Objective
